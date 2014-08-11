@@ -1,0 +1,6 @@
+Commandes utilisees:
+convert imageSource.xxx imageDestination.xxx
+
+Note : les améliorations avec compression jpg et entrelacement ne change rien au bug survenu dans la convertion de png a autre.
+
+La conversion tif vers autre n'a pas ete faite.

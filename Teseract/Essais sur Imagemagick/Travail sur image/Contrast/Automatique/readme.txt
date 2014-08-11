@@ -1,0 +1,1 @@
+Visiblement, pour avoir notre optimisation parfaite du contrast, il me semble que autolevel est le mieux.

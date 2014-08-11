@@ -1,0 +1,1 @@
+Certaine images trop net (comme in.png) sont trop net et l‘CR a de la peine avec la police. Si je rend les images flou, il arrive a les reconnaitre. Etrange non?

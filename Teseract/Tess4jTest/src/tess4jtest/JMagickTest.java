@@ -17,7 +17,7 @@ import magick.PixelPacket;
 
 /**
  *
- * @author Administrateur
+ * @author Nils Ryter
  */
 public class JMagickTest {
     
